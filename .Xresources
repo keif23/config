@@ -1,0 +1,18 @@
+!----------- urxvt--------------
+
+!! Colorsheme
+URxvt.font: xft:Dejavu Sans Mono:size=15
+URxvt.perl-ext-common:resize-font
+URxvt.scrollBar: false
+URxvt.borderless: true
+!URxvt.transparent: true
+!URxvt.shading:20
+
+! Xft----------------------------
+!Xft.dpi:		96
+!Xft.autohint:		0
+!Xft.antialias:		1
+!Xft.hinting:		1
+!Xft.rgba:		rgb
+!Xft.hintstyle:		hintslight
+
